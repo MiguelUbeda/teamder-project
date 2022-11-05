@@ -1,6 +1,6 @@
 # Teamder Project
 <h2> What is Teamder?</h2>
-<p>Teamder is a Full-stack interactive web application deployed to Heroku, made in order to satisfy the needs of those who are willing to find new teammates. There is a live map and a calendar with the current posted activities and the weather so, once you are signed up to the database, you will be able to invite and join other people to do some outdoor excercise.</p>
+<p>Teamder is a Full-stack interactive web application deployed to Heroku, made in order to satisfy the needs of those who are willing to find new teammates. There is a live map and a calendar with the current posted activities and the weather so, once you are signed up to the database, you will be able to invite and join other people to do some outdoor exercise.</p>
 
 <h3>Technologies we worked with</h3>
 <p>React.Js, Flux, Python, Flask, SQLAlchemy, Geocoding API, OpenWeatherMap, Heroku</p>
