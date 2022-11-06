@@ -54,4 +54,4 @@ To update with all yours tables you can edit the file app.py and go to the line 
 
 ## Heroku deployment:
 
-This project is deployed to heroku: https://teamderweb.herokuapp.com/
+This project is deployed to heroku: https://teamderes.herokuapp.com
